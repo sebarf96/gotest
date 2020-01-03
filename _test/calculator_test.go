@@ -1,7 +1,6 @@
 package calculator_test
 
 import (
-	
 	"testing"
 )
 
